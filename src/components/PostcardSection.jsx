@@ -56,7 +56,7 @@ export default function PostcardSection() {
         <div className="purchase__qr">
           <div className="qr-box">
             <DoodleFrame seed={55} rough={18} forceIn style={{ background: '#fff' }}>
-              <img src="/wechat-qr.jpg" alt="微信二维码" />
+              <img src="wechat-qr.jpg" alt="微信二维码" />
             </DoodleFrame>
           </div>
           <p className="purchase__qr-tip">
