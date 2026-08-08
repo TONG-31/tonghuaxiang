@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+  <rect width="800" height="520" fill="#fdfdfd"/>
+  <rect x="22" y="22" width="756" height="476" rx="16" fill="none" stroke="#9e9e9e" stroke-width="3.5" stroke-dasharray="12 9"/>
+  <g clip-path="url(#pc)">
+    <rect x="40" y="40" width="720" height="250" fill="#f2f2f2"/>
+    
+    <g>
+     <circle cx="140" cy="110" r="34" fill="#d6d6d6"/>
+     <g stroke="#9a9a9a" stroke-width="3" stroke-linecap="round">
+       <path d="M 184.0 110.0 L 196.0 110.0"/><path d="M 171.1 141.1 L 179.6 149.6"/><path d="M 140.0 154.0 L 140.0 166.0"/><path d="M 108.9 141.1 L 100.4 149.6"/><path d="M 96.0 110.0 L 84.0 110.0"/><path d="M 108.9 78.9 L 100.4 70.4"/><path d="M 140.0 66.0 L 140.0 54.0"/><path d="M 171.1 78.9 L 179.6 70.4"/>
+     </g>
+   </g>
+    <path d="M 60 190 L 108.6 181.0 L 157.1 199.0 L 205.7 181.0 L 254.3 199.0 L 302.9 181.0 L 351.4 199.0 L 400.0 181.0 L 448.6 199.0 L 497.1 181.0 L 545.7 199.0 L 594.3 181.0 L 642.9 199.0 L 691.4 181.0 L 740.0 199.0" fill="none" stroke="#555555" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 60 230 L 116.7 222.0 L 173.3 238.0 L 230.0 222.0 L 286.7 238.0 L 343.3 222.0 L 400.0 238.0 L 456.7 222.0 L 513.3 238.0 L 570.0 222.0 L 626.7 238.0 L 683.3 222.0 L 740.0 238.0" fill="none" stroke="#777777" stroke-width="3.5" stroke-linecap="round"/>
+    <g stroke="#111111" stroke-width="3.5" fill="#fff" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M480 190 L 480 130 L 540 190 Z"/>
+      <path d="M480 190 L 480 142 L 452 190 Z"/>
+    </g>
+    <path d="M 660 110 q 4.199999999999999 -6.3 8.399999999999999 0 q 4.199999999999999 -6.3 8.399999999999999 0" fill="none" stroke="#555555" stroke-width="3" stroke-linecap="round"/><path d="M 690 122 q 3.5999999999999996 -5.3999999999999995 7.199999999999999 0 q 3.5999999999999996 -5.3999999999999995 7.199999999999999 0" fill="none" stroke="#555555" stroke-width="3" stroke-linecap="round"/>
+    <g transform="translate(660 120) scale(1)">
+     <rect x="-43" y="-52" width="86" height="104" rx="4" fill="#fff" stroke="#777777" stroke-width="3" stroke-dasharray="6 5"/>
+     <rect x="-34" y="-43" width="68" height="86" rx="3" fill="#c8c8c8" opacity="0.85"/>
+     <circle cx="0" cy="-8" r="16" fill="#fff" opacity="0.9"/>
+     <path d="M0 -16 l 4 8 8 2 -6 6 2 9 -8 -5 -8 5 2 -9 -6 -6 8 -2 Z" fill="#222222"/>
+   </g>
+  
+  </g>
+  <text x="70" y="345" font-family="Kaiti SC, KaiTi, STKaiti, serif" font-size="22" fill="#222222" letter-spacing="4">TO：</text>
+  <path d="M 70 380 h 330" stroke="#9a9a9a" stroke-width="3" stroke-linecap="round" opacity="0.8"/><path d="M 70 406 h 330" stroke="#9a9a9a" stroke-width="3" stroke-linecap="round" opacity="0.8"/><path d="M 70 432 h 330" stroke="#9a9a9a" stroke-width="3" stroke-linecap="round" opacity="0.8"/><path d="M 70 458 h 330" stroke="#9a9a9a" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+  <path d="M70 500 h 200" stroke="#cfcfcf" stroke-width="3" stroke-linecap="round"/>
+  <text x="580" y="480" font-family="Kaiti SC, KaiTi, STKaiti, serif" font-size="18" fill="#777777">海边的风</text>
+  <defs>
+    <clipPath id="pc"><rect x="40" y="40" width="720" height="250" rx="10"/></clipPath>
+  </defs>
+</svg>
