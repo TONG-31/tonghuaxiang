@@ -32,7 +32,7 @@ export default function DotsBackground({ count = 26 }) {
           key={d.id}
           className={`dots__dot ${d.ring ? 'dots__dot--ring' : 'dots__dot--fill'} ${d.pink ? 'dots__dot--pink' : ''}`}
           style={{
-            left: `${d.left}%`,
+            left: `${Math.min(d.left, 88)}%`,
             top: `${d.top}%`,
             width: d.size,
             height: d.size,
