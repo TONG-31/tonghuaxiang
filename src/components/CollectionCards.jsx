@@ -21,9 +21,9 @@ export default function CollectionCards({ onOpen }) {
               <h2 className="entry-card__title">{siteConfig.photos.title}</h2>
               <p className="entry-card__desc">{siteConfig.photos.desc}</p>
               <div className="entry-card__thumb mini-grid">
-                <img src="/photos/photo-1.jpg" alt="晴天与单车" />
-                <img src="/photos/photo-3.jpg" alt="夏日的海" />
-                <img src="/photos/photo-5.jpg" alt="窗台的花" />
+                <img src="photos/photo-1.jpg" alt="晴天与单车" />
+                <img src="photos/photo-3.jpg" alt="夏日的海" />
+                <img src="photos/photo-5.jpg" alt="窗台的花" />
               </div>
               <span className="entry-card__open">点我打开 ✦</span>
             </button>
@@ -42,7 +42,7 @@ export default function CollectionCards({ onOpen }) {
               <h2 className="entry-card__title">{siteConfig.postcards.title}</h2>
               <p className="entry-card__desc">{siteConfig.postcards.desc}</p>
               <div className="entry-card__thumb mini-postcard">
-                <img src="/postcards/postcard-1.svg" alt="海边的风明信片" />
+                <img src="postcards/postcard-1.jpg" alt="海边的风明信片" />
               </div>
               <span className="entry-card__open">点我打开 ✦</span>
             </button>
